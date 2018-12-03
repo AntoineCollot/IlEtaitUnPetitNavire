@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Slot
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Island
+    uniqueID: 1706561339
+    locked: 0
+  - name: Boat Back
+    uniqueID: 750216871
+    locked: 0
+  - name: Character
+    uniqueID: 2268977637
+    locked: 0
+  - name: Boat Front
+    uniqueID: 1513177427
+    locked: 0
+  - name: UI
+    uniqueID: 4270826077
+    locked: 0
